@@ -65,6 +65,3 @@ if __name__ == '__main__':
     PayloadToDB().json_source_to_db()
     app.run(host='0.0.0.0', port=5000, debug=True)
     logger.info("App got started")
-
-# Todo: Data validation für die 3 spalten, Test API
-# Todo: ReadMe
