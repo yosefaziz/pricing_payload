@@ -1,4 +1,4 @@
-#Payload Challenge
+# Payload Challenge
 ## How is it structured?
 This Flask App contains two functionalities:
 1) Source payload JSON-data and write it into a database
